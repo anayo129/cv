@@ -1,2 +1,2 @@
 # cv
-cv elaorado en html y css
+cv elaborado en html y css
